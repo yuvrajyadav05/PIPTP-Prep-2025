@@ -9,7 +9,7 @@ Welcome to my Post-Immersion Practice-Only Training Program repository. This rep
 | Week | Focus Area                  | Description |
 |------|-----------------------------|-------------|
 | Week 1 | Pseudo Code Practice       | Basics of logic building, patterns, loops, and conditions |
-| Week 2 | Coding Fundamentals        | Arrays, Strings, Functions, Debugging |
+| Week 2 | Coding Fundamentals(Advance Pseudo-Code)        | Functions, Recursion, Debugging, Arrays, Strings |
 | Week 3 | DSA + Approach Based Coding | Searching, Sorting, Sliding Window, 2 Pointer, etc. |
 | Week 4 | Mixed Mock Sheets          | Set-wise practice with Capgemini-style formats |
 
